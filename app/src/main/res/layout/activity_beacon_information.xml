@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".BeaconModule.BeaconInformationModule.BeaconInformationActivity"
+    android:weightSum="20">
+
+    <TextView
+        android:id="@+id/building_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Hello World!"
+        android:textSize="25sp"
+        android:layout_weight="1"/>
+
+    <TextView
+        android:id="@+id/about_building_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="Hello World!"
+        android:textSize="18sp"
+        android:layout_weight="18"/>
+    <Button
+        android:id="@+id/use_synthesizer_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Use speech synthesizer"
+        >
+    </Button>
+
+</LinearLayout>

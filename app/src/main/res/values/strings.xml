@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Canis</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--navigation-->
+    <string name="access_token">pk.eyJ1IjoiYWRhbXNraTEyNiIsImEiOiJjanV3anBvNHAwZDVjM3lwYmUxZGRtd3I2In0.oKFfz8R4hH5zT21IU3pKoA</string>
+    <string name="start_navigating">Start navigating</string>
+    <string name="was_in_tunnel" translatable="false">was_in_tunnel</string>
+    <string name="was_navigation_stopped" translatable="false">was_navigation_stopped</string>
+</resources>
